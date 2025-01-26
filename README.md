@@ -2,7 +2,7 @@
 
 This repository contains the data and analysis code for the research paper:
 
-> D'Ambrogio, Werksman, Platt, & Johnson (2023). Celebrity endorsements and visual attention: A drift‐diffusion model analysis. *Psychology & Marketing*, 40(4), 741-755. [DOI: 10.1002/mar.21772](https://onlinelibrary.wiley.com/doi/full/10.1002/mar.21772)
+> D'Ambrogio, Werksman, Platt, & Johnson (2023). How celebrity status and gaze direction in ads drive visual attention to shape consumer decisions. *Psychology & Marketing*, 40(4), 741-755. [DOI: 10.1002/mar.21772](https://onlinelibrary.wiley.com/doi/full/10.1002/mar.21772)
 
 ## Repository Structure
 
@@ -50,7 +50,7 @@ If you use this data or code in your research, please cite:
 
 ```bibtex
 @article{dambrogio2023celebrity,
-  title={Celebrity endorsements and visual attention: A drift‐diffusion model analysis},
+  title={How celebrity status and gaze direction in ads drive visual attention to shape consumer decisions},
   author={D'Ambrogio, Pietro and Werksman, Nicolette and Platt, Michael L and Johnson, Eric J},
   journal={Psychology \& Marketing},
   volume={40},
